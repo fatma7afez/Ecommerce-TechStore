@@ -1,0 +1,17 @@
+{
+    "name": "user/tech-store",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TechStore\\Classes\\": "Classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fatma7afez",
+            "email": "fatmahmed.7afez@gmail.com"
+        }
+    ],
+    "require": {}
+}
